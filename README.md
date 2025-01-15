@@ -4,6 +4,33 @@
 
 ![Screenshot (14)](https://github.com/user-attachments/assets/72e50f66-8b53-4ab2-84b2-7b0353b6715a)
 
+![Screenshot (32)](https://github.com/user-attachments/assets/7906cbbd-fba7-4b9c-8bdb-d914353ac2a5)
+
+![Screenshot (24)](https://github.com/user-attachments/assets/2c31eec5-aa49-4c32-ac97-c65a2824d649)
+
+![Screenshot (25)](https://github.com/user-attachments/assets/294db445-f2fc-4095-a001-820e40bc18ae)
+
+![Screenshot (26)](https://github.com/user-attachments/assets/0686490c-8250-40ea-aa45-17abedf6648d)
+
+![Screenshot (27)](https://github.com/user-attachments/assets/9b79321f-5b50-4329-9627-3ec7e4484af0)
+
+![Screenshot (28)](https://github.com/user-attachments/assets/cfbb1d77-9ba9-4bd6-851b-5de514d35c81)
+
+![Screenshot (29)](https://github.com/user-attachments/assets/a9f82ca3-4557-4902-84bc-f377492129d0)
+
+![Screenshot (30)](https://github.com/user-attachments/assets/f378124f-7916-448d-9a2b-3eb09a7f6303)
+
+![Screenshot (31)](https://github.com/user-attachments/assets/9c65875d-b2b5-4175-b142-a9e0bf4aa7bd)
+
+
+
+
+
+
+
+
+
+
 * Kết quả in ra khi hoàn thành kiểm thử tự động
 
   ![Screenshot (15)](https://github.com/user-attachments/assets/82513eb2-f453-4029-b314-c8463b4d55af)
@@ -80,8 +107,13 @@
         } catch (Exception e) {
     e.printStackTrace();
 }
-    
-    13. Đóng trình duyệt
+    13. Các trường hợp khác
+  + Tên người dùng sai
+  + Mật khẩu sai
+  + Trường tên người dùng rỗng
+  + Trường mật khẩu rỗng
+  + Cả hai trường rỗng
+    14. Đóng trình duyệt
            finally {
     driver.quit();
 }
