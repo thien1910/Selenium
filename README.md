@@ -33,7 +33,8 @@
 
 * Kết quả in ra khi hoàn thành kiểm thử tự động
 
-  ![Screenshot (15)](https://github.com/user-attachments/assets/82513eb2-f453-4029-b314-c8463b4d55af)
+![Screenshot (33)](https://github.com/user-attachments/assets/b30379b5-a959-4465-b1ec-bc669d353a14)
+
 
 * Giải thích code
   1. Gói và các thư viện được sử dụng
